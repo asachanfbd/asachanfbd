@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+Thanks for checking in!
+- 🔭 I’m currently working on [Awesome Frontend Resources](https://github.com/requestly/awesome-frontend-resources/)
+- 🌱 I’m currently learning Growth Hacking, Parenting, Finances, Investing, Life, and a lots of thing...
+- 🤔 I’m looking for collaboration in [Awesome Frontend Resources](https://github.com/requestly/awesome-frontend-resources/)
+- 💬 Ask me about Software Engineering, Finances, Parenting...
+- 📫 How to reach me: [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
+- ⚡ Fun fact: I keep looking for new tools to manage my day to day tasks, but never find a perfect match.
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asachanfbd&theme=github_dark)
+
 <!--
 **asachanfbd/asachanfbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
