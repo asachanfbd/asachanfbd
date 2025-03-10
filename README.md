@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 Thanks for checking in!
-- 🔭 I’m currently working on [Growth Toolkit](https://github.com/asachanfbd/Growth-Engineers-Toolkit)
-- 🌱 I’m currently learning Growth Hacking, Parenting, Finances, Investing, Life, and a lots of thing...
-- 💬 Ask me about Software Engineering, Finances, Parenting...
-- 📫 How to reach me: [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
+- 🔭 Coding on [Growth Toolkit](https://github.com/asachanfbd/Growth-Engineers-Toolkit)
+- 🌱 Writing on [Growth Engineering](https://abhisheksachan.com/)
+- 📫 Reach me: [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
 - ⚡ Fun fact: I keep looking for new tools to manage my day to day tasks, but never find a perfect match.
 
 ---
