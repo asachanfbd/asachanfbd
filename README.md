@@ -10,5 +10,3 @@ Thanks for checking in!
 ### 📫 Reach me:
 - [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asachanfbd&theme=github_dark)
