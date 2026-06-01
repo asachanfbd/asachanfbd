@@ -1,25 +1,14 @@
 ## Hi there 👋
 
 Thanks for checking in!
-- 🔭 Coding on [Growth Toolkit](https://github.com/asachanfbd/Growth-Engineers-Toolkit)
-- 🌱 Writing on [Growth Engineering](https://abhisheksachan.com/)
-- 📫 Reach me: [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
-- ⚡ Fun fact: I keep looking for new tools to manage my day to day tasks, but never find a perfect match.
+
+### 👨‍💻 Building 
+- [The Chat Quotient - Whatsapp CRM & AI Sales Agents](https://thechatquotient.com/) — The Chat Quotient transforms WhatsApp Web into a powerful WhatsApp CRM. Manage leads, track sales pipelines, and deploy Inbound AI Agents to handle conversations 24/7.
+- [Strova - Daily Standup Organizer](https://www.usestrova.com/) — Strova organises daily standups with AI-guided updates from engineers — and turns them into productivity scores, blocker alerts, project hours report, and a live CEO dashboard. Automatically.
+
+
+### 📫 Reach me:
+- [@asachanfbd](https://www.linkedin.com/in/asachanfbd/)
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asachanfbd&theme=github_dark)
-
-<!--
-**asachanfbd/asachanfbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
